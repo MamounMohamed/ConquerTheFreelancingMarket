@@ -7,8 +7,4 @@ https://www.freelancer.com/u/mamounmohamed
 https://www.fiverr.com/mamounmohamed45?up_rollout=true
 
 # Work proposals
-### 1-https://www.freelancer.com/projects/matlab-mathematica/Preprocessing-Classification-emotions/proposals
-
-### 2-https://www.freelancer.com/projects/machine-learning/Machine-Learning-Data-Science-Artificial/proposals
-
-### 3-https://www.fiverr.com/share/XmYN40
+https://docs.google.com/document/d/1a0QSe-dYVjeFNgn0BYR6YGmpeclVRMBs5EwAW_c9jA4/edit?usp=sharing
